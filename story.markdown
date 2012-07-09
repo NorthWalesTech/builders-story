@@ -5,9 +5,9 @@ And at the time of writing I am not a pretty sight
 My body is all black and blue, my face a deathly gray
 I write this note to tell why Paddy's not at work today
 
-While working on the fourteenth floor, some bricks I had to clear
-And to throw them down from off the top seemed quite a good idea
-But the gaffer wasn't very pleased, he was an awful sod
+While working on the fourteenth floor, some bricks I had to clear,
+And to throw them down from off the top seemed quite a good idea,
+But the gaffer wasn't very pleased, he was an awful sod,
 He said I had to cart them down the ladder in me hod.
 
 Well clearing all those bricks by hand, it seemed so very slow
