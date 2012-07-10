@@ -17,3 +17,5 @@ Please add your name to the list
 * Ryan Brooks
 * Nia Edmunds
 * Tamsin Slinn
+
+* Fred 
