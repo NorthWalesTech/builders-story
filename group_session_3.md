@@ -94,3 +94,6 @@ The patterns say the same:
 3. **git flow hotfix finish BUG-1**
 
 Looking through the output, you'll see the changes have been pushed to develop and master.
+
+## Viewing your branch graph
+Now you can pick your favourite tool, e.g. GitX, GitG, SourceTree to look at the prety graph you've just created.
