@@ -5,7 +5,8 @@ Please add your name to the list
 
 # Bangor University
 
-* David Hunnisett
+
+* David Samuel Hunnisett
 
 # The Book People
 
@@ -17,5 +18,9 @@ Please add your name to the list
 * Ryan Brooks
 * Nia Edmunds
 * Tamsin Slinn
-
 * Fred 
+
+# 95point2 Software
+
+* Rob Shepherd
+
