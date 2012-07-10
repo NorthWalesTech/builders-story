@@ -5,7 +5,7 @@ Please add your name to the list
 
 # Bangor University
 
-* David Hunnisett
+* David Samuel Hunnisett
 
 # The Book People
 
