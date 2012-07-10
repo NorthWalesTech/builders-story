@@ -13,7 +13,7 @@ There are three hands-on sessions:
 ## Resources
 
 ### Pro Git
-This tutorial is based heavily on the excellent Pro Git book, which is available in print or through http://git-scm.com/book/. This tutorial covers many of the basics in (roughly) the same order as Pro Git, so you can jump to the book for an explanation or more in-depth walkthrough.
+This tutorial is based heavily on the excellent Pro Git book, which is available in print or through http://git-scm.com/book/. Rather than wasting our time trying to rewrite the book (and failing to improve on it), we'll use that as a reference for most sections. This tutorial covers many of the basics in (roughly) the same order as Pro Git, so you can jump to the book for an explanation or more in-depth walkthrough.
 
 ### Git Flow
 A significant portion of the Git branching example is given over to git-flow, which is an extension to Git implementing the branching model described by nvie (http://nvie.com/posts/a-successful-git-branching-model/). git-flow is an open source project available on Github: https://github.com/nvie/gitflow.
