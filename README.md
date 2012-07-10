@@ -5,7 +5,7 @@ This Git repository forms the basis of the Git training course run at Ty Menai. 
 
 There are three hands-on sessions:
 
-1. [group_session_1.md]
+1. [Git basics](group_session_1.md)
 
 ## Resources
 
