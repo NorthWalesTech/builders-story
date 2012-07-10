@@ -11,6 +11,7 @@ Please add your name to the list
 # The Book People
 
 * Luke Farrar
+* Mark Abbott
 
 * Darren Tate (Para)
 
@@ -19,8 +20,9 @@ Please add your name to the list
 # NMi
 
 * Ryan Brooks
-* John Story
-
+* Nia Edmunds
+* Tamsin Slinn
+* John E Story
 * Jason Conway-Williams
 
 # 95point2 Software
