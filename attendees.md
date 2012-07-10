@@ -13,11 +13,17 @@ Please add your name to the list
 * Luke Farrar
 * Mark Abbott
 
+* Darren Tate (Para)
+
+* Andreas Weibel (Andi)
+
 # NMi
 
 * Ryan Brooks
 * Nia Edmunds
 * Tamsin Slinn
+* John E Story
+* Jason Conway-Williams
 
 # 95point2 Software
 

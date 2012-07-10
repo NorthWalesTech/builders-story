@@ -1,6 +1,11 @@
 Undoing and working with remotes
 ================================
 
+To set up for this, take a second to do the following:
+
+* Add another nickname to the attendees.md file. Don't worry, you can make it up. Stage this change but don't commit it.
+* Add your favourite song to the participant-[YOURNAME] file. Don't stage this change.
+
 The aim of this session is to roll back uncommitted changes from various states. It should last about 15 minutes.
 
 All commands are run from within the _builders-story_ directory.
