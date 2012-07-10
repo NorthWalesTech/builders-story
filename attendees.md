@@ -11,7 +11,7 @@ Please add your name to the list
 # The Book People
 
 * Luke Farrar
-* Dean Edmondson
+* Dean Edmondson (Deno)
 * Tim Berkeley
 
 * Darren Tate (Para)
