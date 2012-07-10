@@ -85,6 +85,12 @@ Finally let's release:
 **git release finish 0.1**
 
 ### Hotfixing
+OK, the name "Paddy" isn't particularly PC and someone's complained. We need to fix the issue in the current release and the development branch. Hotfixes are here to help, and merges the appropriate changes.
 
+The patterns say the same:
 
+1. **git flow hotfix start BUG-1**
+2. Fix the bug. Find and replace "Paddy" for "Laddy" or whatever you like.
+3. **git flow hotfix finish BUG-1**
 
+Looking through the output, you'll see the changes have been pushed to develop and master.
