@@ -3,6 +3,10 @@ Readme
 
 This Git repository forms the basis of the Git training course run at Ty Menai. It is intended to provide both an example repository with most aspects of Git pre-populated, and to demonstrate the git-flow extension which provides a powerful branching system for software development.
 
+There are three hands-on sessions:
+
+1. [group_session_1.md]
+
 ## Resources
 
 ### Pro Git
