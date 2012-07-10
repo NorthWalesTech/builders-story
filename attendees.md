@@ -11,9 +11,9 @@ Please add your name to the list
 
 * Luke Farrar
 
-* Darren Tate
+* Darren Tate (Para)
 
-* Andreas Weibel
+* Andreas Weibel (Andi)
 
 # NMi
 
