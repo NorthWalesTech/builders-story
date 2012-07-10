@@ -31,3 +31,6 @@ Please add your name to the list
 
 * Rob Shepherd
 
+# Software Alliance Wales
+
+* Les Pritchard
