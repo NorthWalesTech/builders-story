@@ -11,7 +11,15 @@ Please add your name to the list
 
 * Luke Farrar
 
+* Darren Tate
+
+* Andreas Weibel
+
 # NMi
 
 * Ryan Brooks
+
+* Jason Conway-Williams
+
+
 
