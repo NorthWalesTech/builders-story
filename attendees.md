@@ -18,7 +18,6 @@ Please add your name to the list
 * Ryan Brooks
 * Nia Edmunds
 * Tamsin Slinn
-* Fred 
 
 # 95point2 Software
 
