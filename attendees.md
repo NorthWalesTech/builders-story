@@ -10,8 +10,10 @@ Please add your name to the list
 # The Book People
 
 * Luke Farrar
+* Mark Abbott
 
 # NMi
 
 * Ryan Brooks
-
+* Nia Edmunds
+* Tamsin Slinn
