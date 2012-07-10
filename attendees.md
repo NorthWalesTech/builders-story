@@ -10,6 +10,8 @@ Please add your name to the list
 # The Book People
 
 * Luke Farrar
+* Dean Edmondson
+* Tim Berkeley
 
 # NMi
 
