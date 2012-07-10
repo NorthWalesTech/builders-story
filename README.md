@@ -6,6 +6,9 @@ This Git repository forms the basis of the Git training course run at Ty Menai. 
 There are three hands-on sessions:
 
 1. [Git basics](group_session_1.md)
+2. [Undoing and remotes](group_session_2.md)
+3. [Branching and git-flow](group_session_3.md)
+
 
 ## Resources
 
