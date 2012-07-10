@@ -5,7 +5,7 @@ Please add your name to the list
 
 # Bangor University
 
-* David Hunnisett
+* David Hunnisett, King of Bangor
 
 # The Book People
 
