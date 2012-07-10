@@ -5,7 +5,8 @@ Please add your name to the list
 
 # Bangor University
 
-* David Hunnisett
+
+* David Samuel Hunnisett
 
 # The Book People
 
@@ -21,5 +22,7 @@ Please add your name to the list
 
 * Jason Conway-Williams
 
+# 95point2 Software
 
+* Rob Shepherd
 
