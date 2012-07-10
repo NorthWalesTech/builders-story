@@ -79,7 +79,7 @@ See also [Pro Git 2.2](http://git-scm.com/book/en/Git-Basics-Recording-Changes-t
 
 Committing changes is as simple as using **git commit**. Your editor will fire up requesting a commit message. You can also streamline this using the *-m* switch:
 
-**git commit -m "Adding [YOURNAME] to the list of attendees and adding a little about myself."**
+**git commit -m "Adding [YOURNAME] to the list of attendees."**
 
 Your changes are now all in the repository. 
 
