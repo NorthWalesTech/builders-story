@@ -5,6 +5,7 @@ Tips and Tools
 
 * TortoiseGit: Great for browsing through history (in Windows). 
   http://code.google.com/p/tortoisegit/
+* SourceTree - great browser/manager for OSX (free)
 
 # Scripts
 
