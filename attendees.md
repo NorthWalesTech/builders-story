@@ -12,11 +12,18 @@ Please add your name to the list
 
 * Luke Farrar
 
+* Darren Tate (Para)
+
+* Andreas Weibel (Andi)
+
 # NMi
 
 * Ryan Brooks
 * John Story
 
+* Jason Conway-Williams
+
 # 95point2 Software
 
 * Rob Shepherd
+
